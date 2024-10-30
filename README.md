@@ -35,7 +35,7 @@ The Weights & Biases project provides insights and visualizations, revealing tha
 ## Architecture Choice: ResNet-18 provided the best trade-off between accuracy and computation.
 ## Learning Rate Scheduling: ReduceLROnPlateau improved validation accuracy.
 ## Optmizer: SGD Performed better than AdamW and Adam
-## Activation Function: GELU performed slightly better than ReLU in final runs.
+## Activation Function: ReLU performed better.
 ## Refer to the Weights & Biases report for detailed graphs and comparisons.
 
 
